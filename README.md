@@ -39,3 +39,20 @@
 
 ---
 
+📸 More Screenshots
+<p float="left"> <img src="https://github.com/user-attachments/assets/bde1ef05-1273-4f0d-b1e7-98ab5ae5cf85" width="400" /> <img src="https://github.com/user-attachments/assets/49808747-fa31-40b9-b796-7f42e6996495" width="400" /> </p> <p float="left"> <img src="https://github.com/user-attachments/assets/8715fd2b-e1fd-4009-97f1-83c75f5819a7" width="400" /> <img src="https://github.com/user-attachments/assets/34153ee2-1e67-4a26-be9d-405de26acb52" width="400" /> </p> <p float="left"> <img src="https://github.com/user-attachments/assets/ee992690-d07a-4abf-9709-13dc4f919203" width="400" /> <img src="https://github.com/user-attachments/assets/9f526e11-813e-40e5-a72f-5e36794ad362" width="400" /> </p> <p float="left"> <img src="https://github.com/user-attachments/assets/1567c81f-dcad-465f-abcb-516f83fd7fe0" width="400" /> <img src="https://github.com/user-attachments/assets/b0b2eec6-1344-4fce-86b2-249c03068368" width="400" /> </p> <p float="left"> <img src="https://github.com/user-attachments/assets/1efd7796-4f3c-4080-bf4d-5799e5c3a9a2" width="400" /> </p>
+🙋‍♂️ Author
+GP-HP
+Feel free to ⭐️ star this repo or contribute!
+
+📄 License
+MIT License
+
+🌟 Star the Repo
+If you find this useful, consider starring the project!
+
+🟢 This tool uses music.youtube.com and fetches longer versions of songs than on standard YouTube.
+
+⚠️ For educational and personal use only.
+
+🔐 Please respect copyright laws in your country.
