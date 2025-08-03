@@ -36,6 +36,9 @@ Features:-
 
 <img width="510" height="279" alt="image" src="https://github.com/user-attachments/assets/ee992690-d07a-4abf-9709-13dc4f919203" />
 
+<img width="913" height="346" alt="image" src="https://github.com/user-attachments/assets/9f526e11-813e-40e5-a72f-5e36794ad362" />
+
+
 <img width="1058" height="503" alt="image" src="https://github.com/user-attachments/assets/1567c81f-dcad-465f-abcb-516f83fd7fe0" />
 
 <img width="1048" height="608" alt="image" src="https://github.com/user-attachments/assets/b0b2eec6-1344-4fce-86b2-249c03068368" />
