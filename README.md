@@ -1,7 +1,8 @@
 # Youtube-Music-Tool
 YouTube Music Playlist Tool
 
-First and Only Tool to Download Youtube Music songs in Highest quality possible and with extended duration/lenght than Youtube.com
+First and Only Tool to Download Youtube Music songs in Highest quality possible and with extended duration/lenght from Music.Youtube.com
+Note: Youtube Music has extended length songs than Youtube
 
 Supports both Single video link and Youtube Playlist(Batch support)
 
