@@ -39,5 +39,3 @@
 
 ---
 
-# Install dependencies (update if needed based on your setup)
-pip install -r requirements.txt
