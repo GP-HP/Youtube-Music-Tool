@@ -1,0 +1,27 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "YouTube Music Playlist Tool",
+  "bin": "music-downloader.js",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "inquirer": "^8",
+    "node-fetch": "^2",
+    "ora": "5.4.1"
+  },
+  "pkg": {
+    "assets": [
+      "yt-dlp.exe",
+      "ffmpeg.exe",
+      "ffprobe.exe",
+      "settings.txt",
+      "favourites.txt",
+      "Downloads/**/*"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  }
+}
